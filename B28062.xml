@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Petition presented to the Parliament from the countie of Nottingham complaining of grievances under the ecclesiasticall government by archbishops, bishops, &amp;c. arising from the inconveniences in that forme or constitution of government and praying the removall of the same inconveniences : together with a schedule annexed to the same  petition containing the heads of the said grievances : and a remonstrance also annexed shewing the inconveniences in that forme of church-government and how the grievances complained of, doe arise from the same which will be further declared and made good, upon grounds of religion, reason, and experience.</title>
+         </titleStmt>
+         <extent>Approx. 57KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28062</idno><idno type="EEBO-CITATION">12732057</idno>
+  <idno type="VID">197772</idno>
+  <idno type="EEBO-PROQUEST">2240961963</idno>
+  
+            <idno type="STC">Wing P1849</idno>
+            <idno type="OCLC">12732057</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28062)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 253:E160, no 4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Petition presented to the Parliament from the countie of Nottingham complaining of grievances under the ecclesiasticall government by archbishops, bishops, &amp;c. arising from the inconveniences in that forme or constitution of government and praying the removall of the same inconveniences : together with a schedule annexed to the same  petition containing the heads of the said grievances : and a remonstrance also annexed shewing the inconveniences in that forme of church-government and how the grievances complained of, doe arise from the same which will be further declared and made good, upon grounds of religion, reason, and experience.</title>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  17th century.</term>
+               <term type="topical_term">Church and state --  Church of England.</term>
+               <term type="geographic_name">Nottingham (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197772:1"/>
+            <p> A PETITION PRESENTED TO THE PARLIA<g ref="char:EOLhyphen"/>MENT FROM the Countie of <hi>Nottingham,</hi> COMPLAINING OF Grievances under the Ecclesiasticall government by Archbishops, Bishops, &amp;c. arising from th' Inconveniences in that forme or Con<g ref="char:EOLhyphen"/>stitution of government, and praying the re<g ref="char:EOLhyphen"/>movall of the same Inconveniences.</p>
+            <p>TOGETHER, With a Schedule annexed to the same Petition, con<g ref="char:EOLhyphen"/>taining the Heads of the said Grievances.</p>
+            <p>And, A Remonstrance also annexed, shewing th' inconveniences in that Forme of Church-government, and how the Grievances com<g ref="char:EOLhyphen"/>plained of, doe arise from the same, which will be further declared and made good, upon grounds of Religion, Reason, and Experience.</p>
+            <p>Printed 1641.</p>
+            <pb facs="tcp:197772:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:197772:2"/>
+            <head>
+               <hi>To the Honourable Assembly of the house of Commons in this present Parliament, The humble Petition of his Majesties Subjects of the Countie of</hi> Nottingham, <hi>and the Countie of the towne of</hi> N▪ <hi>whose names are here under written in behalfe of themselves and many more,</hi>
+            </head>
+            <opener>In all humilitie sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas your Petitioners have long suf<g ref="char:EOLhyphen"/>fered many insupportable grievances under the present Ecclesiasticall government by Archbishops, Lord Bishops, Deanes, Arch<g ref="char:EOLhyphen"/>deacons, <hi>&amp;c.</hi> both in the want of that good which better government might have procu<g ref="char:EOLhyphen"/>red; And also in the sufferance of many evils and mischiefes, which the said present government hath occasioned and wrought both in Church and Common-wealth, (as by a Schedule, hereunto annexed containing our said grievances, and by particular Instances and proofes of them ready to bee produced when this honourable Court shall appoint, may ap<g ref="char:EOLhyphen"/>peare) And whereas our said grievances (though, for the most part, they have issued, immediately, from the personall evills of particular governours, or men acting under them, yet withall they) have risen from the Inconveniences of the Forme or Constitution of the said government it selfe; As (by the said, Schedule, declaring, together with our said grievances,
+<pb facs="tcp:197772:3"/> the personall evils from whence immediately they flow, and by an humble Rem<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nstrance, likewise annexed, shewing how the same doe arise from the Forme or Constitution of the said government) may appeare.</p>
+            <p>Your Petitioners therefore humbly pray this honourable As<g ref="char:EOLhyphen"/>sembly;</p>
+            <p n="1">That all such persons as have been Authors or Actors of the late Innovations and abuses in the said Schedule exprest, may receive such condigne punishment, and your Petitio<g ref="char:EOLhyphen"/>ners such remedie, as in your wisedomes shall seeme meete; And for future Remedy against like grievances.</p>
+            <p n="2">That the said present Ecclesiasticall government, or what<g ref="char:EOLhyphen"/>soever such Inconveniences (as aforesaid) shall bee found therein, may be removed or altered; And such Forme or Constitution of Church discipline may be established, as, to your grave Judgements, shall appeare to bee, most conso<g ref="char:EOLhyphen"/>nant to Gods word, and to the practise of the Primitive, and the present best Reformed Churches; and most free from the grand Inconveniences of the present govern<g ref="char:EOLhyphen"/>ment, in the said Remonstrance exprest, from whence such grievances doe grow,</p>
+            <closer>
+               <hi>And your Petitioners shall humbly pray,</hi> &amp;c.
+<signed>
+                  <hi>Subscribed by above</hi> 1500. <hi>hands of Esquires, Gentlemen, and Yeomen.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="grievances">
+            <pb facs="tcp:197772:3"/>
+            <head>A SCHEDƲLE.</head>
+            <head type="sub">SHEWING</head>
+            <argument>
+               <p>
+                  <hi>Our grievances under the Ecclesiasticall government, and the ordinarie evill of the persons governing, or their under<g ref="char:EOLhyphen"/>agents and dependents, from whence (for the most part) immediately, the Grievances have flowed,</hi> viz.</p>
+               <p>
+                  <hi>The Atheisticall or Carnall, and especially the ambitious mindes.</hi>
+               </p>
+               <p>
+                  <hi>Disregarding the Divine ends of Church discipline and Offices, preferring and pursuing their owne worldly ends above and against those, and against Humane right or common Iu<g ref="char:EOLhyphen"/>stice.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">W</seg>Hat the Divine ends thereof peculiarly bee? And what the Proportionable meanes peculiar thereunto? And what, the answerable Rule or ground, peculiar to the same? Wee humbly leave to the pious consideration of this honoura<g ref="char:EOLhyphen"/>ble Assembly;</p>
+            <p>Or what wee understand the same to be, wee shall be ready to declare and propound (if this honourable House shall re<g ref="char:EOLhyphen"/>quire) for the better clearing of the whole Question, both in this <hi>Schedule,</hi> and in the remonstrance ensuing:</p>
+            <pb n="2" facs="tcp:197772:4"/>
+            <p> But their owne worldly ends therein,</p>
+            <list>
+               <item>We find to bee
+<list>
+                     <item>To every particular, his owne advantage in pro<g ref="char:EOLhyphen"/>fit or Revenue, with Outward honour &amp; power, as in the Ambitious, or Ease &amp; licencious freedome of life, as in the sensuall man:</item>
+                     <item>To the whole su<g ref="char:EOLhyphen"/>steine of Prelats &amp; prelaticall men the securing &amp; advancing of the same things to the state thereof in continuall success<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on.</item>
+                  </list>
+               </item>
+            </list>
+            <p>For which (neglecting the Divine ends of their Offices and Authoritie.</p>
+            <list>
+               <item>That they have
+<list>
+                     <item>used and drawne Church discipline and offices unto
+<list>
+                           <item>means not proper but ra<g ref="char:EOLhyphen"/>ther destructive to the divine ends therof conducing onely to these their owne; and</item>
+                           <item>Rules of the same nature, &amp; therof th▪immediate groūds not Gods wil but theirs</item>
+                        </list>
+                     </item>
+                     <item>and Abused all (both meanes and Rules) to these their owne ends against the Divine ends.</item>
+                  </list>
+               </item>
+            </list>
+            <p>And that from such evill mindes (as above mentioned) inclining to doe so, our Grievances under them (for the most part) have flowed.</p>
+            <p>We humbly submit and refer to be judged, by the kinds and consequences of the same our Crievances as they follow.</p>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>Grievances in meere Neglect, arguing disregard of the divine ends of Church Discipline.</p>
+               </argument>
+               <p n="1">1 THe Neglect of strict or sufficient tryall in Ordinations and Institutions, to discover and keepe out from the Calling and places of ministrie, them that are insufficient erro<g ref="char:EOLhyphen"/>neous, corrupt, or scandalous of life; And to admit onely, able, pious, and conscionable men, of exemplary, and inoffensive lives.</p>
+               <p n="2">2 The Neglect of removing, or censuring such as the first, or
+<pb n="3" facs="tcp:197772:4"/> that prove idle (where admitted) and of preferring upholding and encouraging such as the latter;</p>
+               <p>By which neglects (together with some unworthy presentati<g ref="char:EOLhyphen"/>ons) the Countrie swarmes with corrupt, scandalous and unprofitable Ministers, and the contrary are very rare.</p>
+               <p n="3">3 The Neglect of due applying Church-Censures, and o<g ref="char:EOLhyphen"/>ther divine Ordinances in Discipline towards all people, for their spirituall conviction or trouble of mind, in sinne or errour; For their spirituall Comfort and peace in Repentance and a<g ref="char:EOLhyphen"/>mendment, and for encouragement in godlinesse; Particularly Their suffering, without all censure, the ordinary neglect and prophanation of the Lords day, and the neglect of generall Fast dayes appointed by Authoritie, especially the last.</p>
+               <p>By which neglects (together with the former, in the two first Articles) most people languish in ignorance, or rest in superstition; Others, hardned in impudent prophanenesse and vice, doe abound; good Christians are discouraged, and especially the weake offended.</p>
+               <p n="4">4 Their neglect of punishing or remedying all the Abuses here following.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>Grievances in abuse of their Power, proceeding (as we conceive) from unjust pursuit of their worldly ends in injuries or mis<g ref="char:EOLhyphen"/>chiefes to Man, against law or common Iustice and humane Right.</p>
+               </argument>
+               <div n="1" type="division">
+                  <head>
+                     <hi>Division</hi> 1. In Advantage of immediate profit, especially to Particulars,</head>
+                  <p>Their</p>
+                  <p n="1">1. Taking presentments (and proceeding upon them to their owne gaine) for things not punishable by any law; and, if the fact be confest, denying traverse to the right of it.</p>
+                  <p n="2">2. Abuses of presentments or informations upon Fame; Requiring and taking them upon vaine or malicious speeches of loose tongues against persons of honest repute (vented, some<g ref="char:EOLhyphen"/>times
+<pb n="4" facs="tcp:197772:5"/> of purpose to bring them into such disgrace and trouble) and enforcing them thereupon to the charge and trouble of pur<g ref="char:EOLhyphen"/>gation where no ground of suspition appeares.</p>
+                  <p n="3">3. Taking Informations from their Apparators, or from un<g ref="char:EOLhyphen"/>knowne persons; enforcing people thereupon to appearances, answeres upon oath, and fees, where no accuser can be knowne.</p>
+                  <p n="4">4. Extorting of Fees, and that where the Law allowes none, or more then it allowes.</p>
+                  <p n="5">5. Exaction of monies from Church-Wardens for every pa<g ref="char:EOLhyphen"/>rish unduly;</p>
+                  <p>
+                     <hi>viz.</hi> For Fast bookes upon generall fasts For bookes of Arti<g ref="char:EOLhyphen"/>cles yearly or oftner whereof they assume a Monopoly, forcing them to take the same from their hands at excessive rates, <hi>viz.</hi> the latter at two shillings or three shil<g ref="char:EOLhyphen"/>lings a booke.</p>
+                  <p>For their Oathes at Visitations; for signing bills of present<g ref="char:EOLhyphen"/>ments by some Clarke of their owne, which otherwise they refuse to take.</p>
+                  <p>For transmitting Copies of Register bookes to <hi>Yorke,</hi> for which (if not brought in their time) they take what they list.</p>
+                  <p>For Pentecostall offerings to the Collegiate Church ofS: upon unknowne or suporstitious originall.</p>
+                  <p n="6">6. Exactions upon Ministers; as, for arrears of tenths, in<g ref="char:EOLhyphen"/>curr'd by default of their Predecessors (which they charge up<g ref="char:EOLhyphen"/>on the present Incumbent, if he cannot produce Acquittances to his Predecessor) for shewing letters of Orders, Licences, <hi>&amp;c.</hi> with many more.</p>
+                  <p n="7">7. Fining parishes, excessively (without limit) for not alte<g ref="char:EOLhyphen"/>ring of Seats, painting of Churches, or buying of Ornaments, <hi>&amp;c.</hi> at their pleasure (though unnecessarie) and so forcing them to extreme and needlesse charge therein.</p>
+                  <p n="8">8. Encouraging men in contentions, that will bring Causes into their Courts (as Ministers, Church-wardens, <hi>&amp;c.)</hi> suppor<g ref="char:EOLhyphen"/>ting them therein, and suffering their owne faults.</p>
+               </div>
+               <div n="2" type="division">
+                  <pb n="5" facs="tcp:197772:5"/>
+                  <head>Divis. 2. <hi>In advantage of both profit, power, and freedome both to particulare, and the whole state of Pralaticall persons.</hi>
+                  </head>
+                  <p>Their</p>
+                  <p n="1">1 Enforcing Oathes <hi>[Ex Officie]</hi> without just ground, to th'ensnaring and awing of mens consciences, and th'extorting of secrets, which may give them advantages; and (to the same purpose) Oathes upon Church-wardens to present according to bookes of Articles, before they know the Contents; those (for the most part) being, either triviall things (onely to bring in Fees) or not punishable by law; as their Innovations in Re<g ref="char:EOLhyphen"/>ligion.</p>
+                  <p n="2">2. Extending their Spirituall jurisdiction over civill Causes, and that, further then Law allowes, and to Civill Censures upon persons, contrary to law, especially in the high Commissions.</p>
+                  <p n="3">3. Contending to exempt Ecclesiasticall Causes, Courts, Iudges and Officers, and other spirituall persons from tempo<g ref="char:EOLhyphen"/>rall surisdiction or Law; denying or refusing their subjection thereto; rejecting prohibitions or stopping them by threats.</p>
+                  <p>By which two last grievances peo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le are either barr▪d from the benefit of Law in their defence, or put to multiplicitie of suites for the same.</p>
+                  <p n="4">4. Assuming Ciuill power, and Offices unto spirituall per<g ref="char:EOLhyphen"/>sons, that they may sway both swords.</p>
+                  <p n="5">5 Assuming power to make Canons binding and coactive unto all, without confirmation by authority of Parliament (unto Ecclesiasticall persons even in charging their free-hold) and enforcing them accordingly.</p>
+                  <p n="6">6. Claiming such their Iurisdiction <hi>[Iure divino]</hi> exerci<g ref="char:EOLhyphen"/>sing it, in their owne rights and names (or Gods) and under their owne Seales, even in Civill Causes—And now lately,</p>
+                  <p n="7">7. Enforcing an Oath (as if their said Iurisdiction were, In<g ref="char:EOLhyphen"/>deed, of Divine ri<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ht, and essentiall to the Church) of conse<g ref="char:EOLhyphen"/>quence to make it Independent, immutable by Civill Authority, and not subject to Reformation or Rule, but from it selfe.</p>
+                  <p>To th'attaining and strengthening of which their affected
+<pb n="6" facs="tcp:197772:6"/> greatnesse, and th'accomplishing their ends therein, and in Religion (as hereafter followeth) and, for their particular preferments, to ingratiate themselves at Court, Tends Their</p>
+                  <p n="8">8. Endevouring to overthrow the subjects liberties and pro<g ref="char:EOLhyphen"/>prietie in their goods; attributing to the King absolute and unli<g ref="char:EOLhyphen"/>mitted power over all [saving their <hi>Jus divinum]</hi> and that, as essentiall to his Crowne <hi>[Jure divino]</hi> without reference to humane constitution or Law;</p>
+                  <p>Hence our civill grievances, in Ship-money, Monopolyes, &amp;c. and the forcing of the subjects in any thing, without or against law; Wherein for their ends (as afore said,) they have beene zealous, that his Majesties occasions might bee perpetu<g ref="char:EOLhyphen"/>ally supplyed at pleasure, by such arbitrary wayes, without Par<g ref="char:EOLhyphen"/>liaments:</p>
+                  <p>And the lawes standing crosse to their ends and wayes, and no hopes of bending them thereto, or establishing their desires by Parliaments.</p>
+                  <p n="9">9. Labouring to overthrow or diminish the power of Parlia<g ref="char:EOLhyphen"/>ments, and their lawes, to hold them off, or breake them, to dis<g ref="char:EOLhyphen"/>grace and disparage them; and therein (as we conceive) to e<g ref="char:EOLhyphen"/>vert the whole frame of Civill government and Common<g ref="char:EOLhyphen"/>wealth, and reduce it to meere arbitrary power, to render the best Subjects odious, and themselues (with Papists and other their partakers or complyers) onely gracious.</p>
+                  <p>Yea, to support and raise their greatnesse and maintaine their quarrell.</p>
+                  <p n="10">10. Occasioning and nourishing (as we have cause to thinke) the late wofull differences, betweene his Majestie and his Sub<g ref="char:EOLhyphen"/>jects of <hi>Scotland,</hi> Raysing and reviving the warres against them, and practising to stirre vp a Nationall quarrell betwixt the two Kingdomes, whereby this Country hath suffered more then ordinary hurt and damage.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="7" facs="tcp:197772:6"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>Grievances in abuse of their power, proceeding (as we con<g ref="char:EOLhyphen"/>ceive) from preferment and pursuit of their worldly ends, above and against the Divine ends thereof.</p>
+               </argument>
+               <div n="1" type="division">
+                  <head>
+                     <hi>Divis.</hi> 1. In advantage of immediate profit (especially) to particulars.</head>
+                  <p>Their</p>
+                  <p n="1">1. Dismissing Criminous persons presented, without censure, upon meere payment of Fees, some without Fees, upon condi<g ref="char:EOLhyphen"/>tion of appeaching other Delinquents, to bring more Fees.</p>
+                  <p n="2">2. Abusing of Divine Ordinances in Discipline, to their pro<g ref="char:EOLhyphen"/>sit, <hi>viz.</hi> Admonition, Excommunication, Penance, Absolution; <hi>In.</hi> 1. Giving admonition oft in one day, to such as they would speedily censure, and sometimes Excommunication with it</p>
+                  <p n="2">2. Applying Excommunication for civill causes, for things lawfull, or light and triviall, and often without ground in Law (as against Church-wardens for backwardnesse in ray<g ref="char:EOLhyphen"/>ling in Communion tables, Poore people for want of paying Fees, <hi>&amp;c.)</hi>
+                  </p>
+                  <p n="3">3. Withholding Absolution (even after penance done or tendered) till full Fees be paid, whereby many poore people have beene kept excommunicate to their deaths, without other fault then want of money.</p>
+                  <p n="4">4. Pronouncing Excommunication, and granting Absolu<g ref="char:EOLhyphen"/>tion at once, to some persons punishable, if they'll roundly pay Fees for all.</p>
+                  <p n="5">5. Converting the penitentiall satisfaction (due to Con<g ref="char:EOLhyphen"/>gregations from their offensive members presented) into pe<g ref="char:EOLhyphen"/>cuntarie mults, to their owne private profit, in Composition, or to superstitious uses. </p>
+                  <pb n="8" facs="tcp:197772:7"/>
+                  <p>By which and other Abuses, they make these sacred Ordinan<g ref="char:EOLhyphen"/>ces, contemptible, and hurtfull, or uselesse, save to their owne advantage.</p>
+                  <p n="3">3. Licencing Clandestine marriages illegally, without Banes asking, and Prohibiting Marriage for a great part of the yeare without their Lycences.</p>
+                  <p n="4">4. Engrossing of tythes into the Revenues of Bishops and Cathedrals; The Churches where such Impropriations are, be<g ref="char:EOLhyphen"/>ing worst provided, for Ministrie and maintenance</p>
+                  <p n="5">5. Allowing and defending Non-Residencie and pluralities (and that) without competent provision for Curats; which (with the last precedent Article) is a great cause of an idle and in<g ref="char:EOLhyphen"/>sufficient ministrie in many Churches.</p>
+               </div>
+               <div n="2" type="division">
+                  <head>Divis. 2. <hi>In Advantage of both profit, power and sway, and ease or freedome, both to particulars, and the whole state of Prelaticall Clergie.</hi>
+                  </head>
+                  <p>For which,</p>
+                  <p>Their endevours have beene (as we conceive) to draw the people from immediate Regard to, or Dependance on, God and his Will or Word, unto more, or more immediate, and that, Necessary, Regard to, and Dependance on, themselves and their power, dictates or actions, in matters of Religion.</p>
+                  <div n="1" type="subdivision">
+                     <head>
+                        <hi>Subdivis.</hi> 1. Generally, in All matters of Religion.</head>
+                     <p>By</p>
+                     <p n="1">1. Enslaving all Ministers to their wills and authoritie (especi<g ref="char:EOLhyphen"/>ally in the Oath of Canonicall obedience to One Ordinarie) and obtruding Ministers (men of their owne straine) upon Chur<g ref="char:EOLhyphen"/>ches, without the peoples or (sometimes) Patrons consent.</p>
+                     <p n="2">2. Opposing and suppressing such persons, in whom they found a Principle, obliging to any Rule, paramount their Wills; especially that Divine principle, of <hi>Faith</hi> in, and <hi>Conscience to<g ref="char:EOLhyphen"/>wards God,</hi> his truth and will immediatly—And that</p>
+                     <p>By 1. Branding all such with the name of <hi>Puritans;</hi> Rendring them ignominious and odious; then persecuting and suppres<g ref="char:EOLhyphen"/>sing them vnder it, by taking all <hi>Advantages,</hi> and pressing
+<pb n="9" facs="tcp:197772:7"/> th'extremitie of law, in trifles against such; yea, without and against law, fining, imprisoning, and cruelly using them (espe<g ref="char:EOLhyphen"/>cially in the high Commissions) whence many most godly men have fled the Land.</p>
+                     <p n="2">2. Restraining such men, especially, from the Calling and places of Ministry, or (where any such have beene admitted) ta<g ref="char:EOLhyphen"/>king advantages, as a foresaid, <hi>to thrust them out;</hi> And (to that end) where legall advantages could not be found <hi>(viz.</hi> in Conformable <hi>Puritans,</hi> as they called them) pressing their consciences with other new things, Devised, and enforced (partly) of purpose, to thrust them out also without and against Law or Conscience; As, for not rea<g ref="char:EOLhyphen"/>ding the booke for sports on the Lords day, yea (some) for conscience of their dutie, in painfull and zealous preaching; And to the same purpose (partly) the late new Canon, en<g ref="char:EOLhyphen"/>joyning the Oath, did tend yea the old Canons were bent and applyed, chiefly, and with most extreme rigour, against such men.</p>
+                     <p n="3">3. Favouring and defending such as are of temper indifferent, or coole in Religion, and yeelding to their wills in any thing, By 1. Commending such as th'onely good Protestants, and bearing them up, against th'aforesaid <hi>Puritans</hi> (in Case of suites or complaints, <hi>&amp;c.)</hi> and either forbearing and excu<g ref="char:EOLhyphen"/>sing, or remisly punishing the faults of such (though great and scandalous) unlesse upon some private malevolence, or to make advantage of them.</p>
+                     <p n="2">2 Admitting such to passe easily into, and hold quietly in, the office and places of ministrie (though insufficient or licentious) And, if zealous for their ends, and apt for their wayes, countenancing and advancing them (though idle or erroneous) and the more superssitious, or proud and contentious, the better; such they support in all, In con<g ref="char:EOLhyphen"/>tentious courses, and injuries to their people; In abuses to the Gentrie, in affronteto Nobilitie and Magistracie.</p>
+                  </div>
+                  <div n="2" type="subdivision">
+                     <pb n="10" facs="tcp:197772:8"/>
+                     <head>
+                        <hi>Subdivis.</hi> 2.</head>
+                     <p n="2">2. More particularly endevouring the same, in matters of Beleefe, Practice, or Hope.</p>
+                     <div n="1" type="partition">
+                        <head>
+                           <hi>Partition</hi> 1.</head>
+                        <p n="1">1. In matters of Beliefe or Knowledge, whereby the people may be more easily rul'd and swayd by them in all things.</p>
+                        <p>Their endeavours have beene (as wee conceive) to keepe the people in ignorance of Divine things (more then serues for a foundation of their affected sway) and to hinder the free and full knowledge of God, and the meanes thereof.</p>
+                        <p>To which purpose, and for their owne ease in example, makes</p>
+                        <p>Their</p>
+                        <p n="1">1. Teaching or insinuating, That much knowledge or preach<g ref="char:EOLhyphen"/>ing is not needfull, but rather distracting and dangerous.</p>
+                        <p n="2">2. Restraining the use of Catechisme, to the bare words of the common Catechisme without any Exposition.</p>
+                        <p n="3">3. Opposing, discountenancing, and suppressing the diligent preaching and hearing of Gods word.</p>
+                        <p>By</p>
+                        <p n="1">1. Prohibiting afternoone Sermons on the Lords day.</p>
+                        <p n="2">2. Suppressing Lectures, and where idle or unpreaching Ministers are, denying to let others preach, though the peo<g ref="char:EOLhyphen"/>ple would procure one, (and that) at their owne charge.</p>
+                        <p n="3">3. Punishing good people for going to heare Sermons at Neighbour Churches, when none at their owne; And for meeting to Repeate Sermons on the Lords day.</p>
+                        <p n="4">4. Hindering also, the full Audience of Sermons, and withdrawing the opinion of the use of Churches, for Audi<g ref="char:EOLhyphen"/>tories, by pulling downe Losts in great Congregations.</p>
+                        <p n="4">
+                           <pb n="11" facs="tcp:197772:8"/> 4. Restraining pious and Orthodoxe bookes from Prin<g ref="char:EOLhyphen"/>ting or publishing; Such bookes formerly Lycenced, from Reprinting (or blotting out, and adding what they pleased) but allowing Lascivious and idle bookes, freely to bee printed and published, which may withdraw people from diviner studies.</p>
+                        <p n="5">5. Discountenancing, or disparaging Canonicall Scrip<g ref="char:EOLhyphen"/>ture, countenancing, and giving Divine authoritie to Apocry<g ref="char:EOLhyphen"/>phall, with other humane bookes, and to Traditions.</p>
+                        <p n="6">6. Teaching or insinuating the Necessitie and sufficiencie of implicite Faith, in the Doctrine of the Church, whereof they Appropriate the Name.</p>
+                     </div>
+                     <div n="2" type="partition">
+                        <head>
+                           <hi>Partit.</hi> 2.</head>
+                        <p n="2">2. In matters of practise (especially) of Divine worship.</p>
+                        <p>Their Endevours (as wee conceive) have beene, To take of mens Hearts from the spirituall fervencie and puri<g ref="char:EOLhyphen"/>tie of worship, <hi>(viz.</hi> Th'immediate direction of it to God) and to stay them, and make them Rest in outward Actions, Formes and things (such as must depend on the Prelates or Priests, and come through their hands) or at least to make them worship God (Idolatrously) onely, in and through such things; And to draw them from Gods Prescript, (for the Forme of worship) to their owne Inventions, And (for the matter of Obedience) to their owne Rules and Commands.</p>
+                        <p>To which Purpose tend,</p>
+                        <p>Their</p>
+                        <p n="1">1. Requiring, using, and observing, in Divine worship, such specious Habits, Ceremonies, and formalities (in the outward state and majestie whereof, the sence and fancie might bee Am<g ref="char:EOLhyphen"/>mused, and the mindes of people detained from the Rationall part of the worke) and confounding all with noyse, especi<g ref="char:EOLhyphen"/>ally, in the Cathedrall service, which they make exemplarie to all other Churches. </p>
+                        <p n="2">
+                           <pb n="12" facs="tcp:197772:9"/> 2. Secondly, disgracing zeale, and servencie of worship, under scandalous Names (as Enthusiasme or madnesse) Pu<g ref="char:EOLhyphen"/>ritie in it, or th'immediate direction to God, under the like ill names (as slovenlinesse, unmannerlinesse, presumption, <hi>&amp;c.)</hi> And commending the contrary, under specious titles of Discreti<g ref="char:EOLhyphen"/>on, Order, Decencie, <hi>&amp;c.</hi>
+                        </p>
+                        <p n="3">3. Thirdly, resolving all Divine worship, into Set Formes (as having peculiar spirituall Efficacie, though of onely humane invention and proposall)</p>
+                        <p>
+                           <hi>viz.</hi> Of Words (even the Preachers prayer before Sermon) Of Gestures (standing at one part, as <hi>Gloria patri,</hi> and the Gospell, other gestures at other parts, bowing at the name of Iesus, <hi>&amp;c.)</hi>
+                        </p>
+                        <p>and into Divine Reverence to suppos'd holy places, and other outward things dependant on the Prelacie and Priesthood.—For which</p>
+                        <p n="4">4. Fourthly, attributing special holinesse to places and things, by their Appointment and Consecrations; As if, without their Con<g ref="char:EOLhyphen"/>secration, all things were uncleane, nothing fit for holy uses, and being Consecrated, they may never admit of common uses (though law full, publike necessarie and in offensive) Or, if by such polluted, they must be Re-consecrate e're used.</p>
+                        <p n="5">5. Fiftly, attributing distinct degrees of holinesse to severall things, by speciall Consecrations;</p>
+                        <p>
+                           <hi>viz.</hi> 1. To persons in severall Orders; The Priest holier then the Deacon, the Bishop then the Priest, <hi>&amp;c.—</hi>unto his Ho<g ref="char:EOLhyphen"/>linesse (where onely wee conceive, their comparison would rest Superlative.)</p>
+                        <p n="2">2. To places; <hi>(viz)</hi> To Churchyards one degree, to Chur<g ref="char:EOLhyphen"/>ches more; And, of Churches, the Mothers or Cathedrals, holier than others, the Metropolitans yet more holy; And, in each Church, the Navis or body holy, the Chancell more, the place of the Altar, with the Altar, holiest of all:—And, to that purpose</p>
+                        <p n="6">6: Sixtly, Preferring the Communion Table to the East end of the Chancell, turning it to the posture and name of an Altar, ad<g ref="char:EOLhyphen"/>vancing it with new stepsto it, rayling it in, with single or double
+<pb n="13" facs="tcp:197772:9"/> Rayles, placing a Canopie over it, Tapers by it, Crucifixes, or other superstitious Images, upon, over, or about it, appropria<g ref="char:EOLhyphen"/>ting peculiar parts of service to it.</p>
+                        <p>In all which things (as we conceive) a power is assumed, as if they could confine God to speciall presence or Exhibition thereof, where they please, or impart spirituall vertue to out<g ref="char:EOLhyphen"/>ward things, as they please.</p>
+                        <p n="7">7. Drawing Worship or Reverence to externall things afore<g ref="char:EOLhyphen"/>said, according to such supposed holinesse (at least) to be dire<g ref="char:EOLhyphen"/>cted immediately towards the same, (as especially in bowing or praying towards the East, bowing to the Altar upon approaches, in comming and kneeling to the Rayle for the Sacrament, whereto they enforce the people, by denying the Sacrament to such as will not, and further punishing them for the neglect) For, or by which things, they subinduce th'opinion of the cor<g ref="char:EOLhyphen"/>porall presence there:</p>
+                        <p>All such things they have pressed by Doctrine, Example and Discipline, as most necessary.</p>
+                        <p n="8">8. Discountenancing the Religious observation of the Lords day, in obedience to God; Denying the morallity of the fourth Commandement, to leave no other ground for keeping a Sab<g ref="char:EOLhyphen"/>bath, then the Churches (i. e. their owne) appointment; And enforcing th'observation of their Holy-dayes and Festivals, equall with, or above the Lords day (by punishing people for working thereon, though poore or in harvest) and requiring the observance of other times for fasting, as being of peculiar holinesse.</p>
+                        <p n="9">9. Commanding or commending sports to the younger peo<g ref="char:EOLhyphen"/>ple, apt to make them lascivious, especially on the Lords day, whereby they may bee taken off from Religious exercises by vaine and sensuall delights;</p>
+                        <p>Whence the great prophanation of that day, especially at Wakes (by them so much commended.)</p>
+                        <p n="10">10. Teaching, venting or insinuating the necessitie and suffici<g ref="char:EOLhyphen"/>encie of blind obedience, either in Termes, or under the names of conformitie and obedience to Authority, especially of the Church <hi>(i. e.</hi> their owne Authority) as binding the conscience or inner man.</p>
+                     </div>
+                     <div n="3" type="partition">
+                        <pb n="14" facs="tcp:197772:10"/>
+                        <head>
+                           <hi>Partic.</hi> 3.</head>
+                        <p n="3">3. In matters of Hope.</p>
+                        <p>Teaching or Insinuating the Necessitie,</p>
+                        <p n="1">1. Of the outward worke of Sacraments to salvation, and their conferring grace thereby, occasioning a superstitious e<g ref="char:EOLhyphen"/>steeme of the Outward worke, and a resting therein, and great dishonour to the Sacraments by private Administrations.</p>
+                        <p n="2">2 Of Confession of sinnes unto, and Absolution there-from, by the Priest.</p>
+                        <p n="3">3. Of his Intercession and prayers for them, as of a Me<g ref="char:EOLhyphen"/>diatour.</p>
+                        <p n="4">4. Of Absolution from Excommunication after death.</p>
+                        <p>Finally; In all things (not to enumerate more particulars) Drawing neere to the Romish Fabricke of Religion, for Do<g ref="char:EOLhyphen"/>ctrine, Worship, Discipline and Orders; It being, indeed, ori<g ref="char:EOLhyphen"/>ginally (by men of their owne mindes) perfectly fitted to all their aforesaid purposes, by the like graduall corruption of, and additions to the Christian Religion (as its Foundations would admit) yea, by razing and defacing, or hiding some Fun<g ref="char:EOLhyphen"/>damentalls of it, which they could not bring in square with their <hi>Babilonish Machinations,</hi> and inclining to Re-union with that Church, as th'Accomplishment and Establishment of their said ends.—To that purpose</p>
+                        <list>
+                           <item>1. Retaine reviving, and giving Reve<g ref="char:EOLhyphen"/>rence to popish
+<list>
+                                 <item>Names (as Priest, Altar, <hi>&amp;c.)</hi>
+                                 </item>
+                                 <item>Things (as Vestures, Church in<g ref="char:EOLhyphen"/>struments, Crosses, or Cruci<g ref="char:EOLhyphen"/>fixes, Images in Churches, <hi>&amp;c.)</hi>
+                                 </item>
+                                 <item>Gestures and formes of worship, (as th'afore-mentioned and o<g ref="char:EOLhyphen"/>thers.)</item>
+                                 <item>Formes of Discipline (as in their Ordinations, Consecrations, Unctions, Court proceedings and Censures.)</item>
+                              </list>
+                           </item>
+                           <pb n="15" facs="tcp:197772:10"/>
+                           <item> 2. Venting, publishing and defending Doctrines or Tenents (generall ones) in favour of it (as that the Church of <hi>Rome</hi> is a true Church never erred in fundamentals; salvation or<g ref="char:EOLhyphen"/>dinarily to be obtained in it; The Pope not Antichrist, <hi>&amp;c)</hi> And particular doctrines, concurring with it, or leading to it; In Sermons, discourses, Acts, and bookes which have filled, and freely past the Presse, while those that opposed the same, have beene stopt and supprest.</item>
+                           <item>3. Suffering, favouring, and patronizing popish Recusants, Priests and Iesuites, their Actions and bookes.</item>
+                        </list>
+                        <p>Of all these Grievances, such as are in Discipline issue im<g ref="char:EOLhyphen"/>mediatly from the persons of Church governours; such as are in Doctrine or Worship issue immediatly from the persons of Ministers (as such)</p>
+                        <p>But, the power of Ordination and Discipline, swaying these other two <hi>(viz.</hi> Doctrine and Worship) all by it, are from the Governours.</p>
+                        <p>By the Nature of all these Grievances (with many more) and by the Consequences they all tend to (we conceive) it may appeare (as in the Remonstrance is supposed) that the evill in Church-governours and Prelaticall men (their Dependants and Favourites) from whence our said Grievances have proceeded, is, the Atheisticall, or Carnall or Ambitious minde, disregarding God, and his Divine Ends, preferring and pursuing their owne worldly ends, above and against, and to the overthrow of those.</p>
+                        <p>And so, it will follow, as in the Remonstrance ensuing, is concluded.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div type="conclusion">
+               <pb n="16" facs="tcp:197772:11"/>
+               <head>An humble Remonstrance</head>
+               <argument>
+                  <p>Shewing how our Grievances under th'Ecclesiasticall go<g ref="char:EOLhyphen"/>vernment (as in the Schedule they are declared)</p>
+                  <p>Doe arise from the Inconveniences of the Forme or Con<g ref="char:EOLhyphen"/>stitution of the said Government it selfe.</p>
+                  <p>And the Aptnesse (at least) of the same, to produce the like Grievances.</p>
+               </argument>
+               <p>TO the Production of our <hi>Grievances</hi> (in the <hi>Schedule</hi> de<g ref="char:EOLhyphen"/>clared)</p>
+               <p>The present Forme or Constitution of our Church-govern<g ref="char:EOLhyphen"/>ment (as wee conceive) hath wrought, and is apt to worke, as followeth;</p>
+               <p n="1">1. <hi>Generally,</hi> in three things, which we conceive to bee the Grand Inconveniences thereof: <hi>Viz.</hi>
+               </p>
+               <p n="1">1. The Greatnesse of temporall Revenue, Dignitie, power, <hi>&amp;c.</hi> with the ease and freedome of life (without particu<g ref="char:EOLhyphen"/>lar cure) annexed to the chiefe places of Church-govern<g ref="char:EOLhyphen"/>ment;</p>
+               <p n="1">1. Being so supereminent to those places, above all ordinary places of ministeriall Office in the Church;—And</p>
+               <p n="2">2. Affording thereby, and by Cathedrall places, greater temporall preferment, and worldly advantage in th'Eccle<g ref="char:EOLhyphen"/>siasticall way, then any Callings in Common-wealth or places (not hereditary) doe afford, to bee obtained, with equall assurance, ease and freedome.</p>
+               <p n="3">3. The way of comming in to the same places <hi>(viz.</hi> All) by absolute Donation from one superiour, without free election or consent of either inferiours over whom, or any equalls with whom they are to preside;</p>
+               <p>Occasioning, that his Majestie, th'universall Donor of so many places, (in choyce of men for the same) must use and referre to, the commendations of some other persons about him, and those, ordinarily, such great ones, as are not themselves subjected under the government of the said places, to which they commend.</p>
+               <p n="3">
+                  <pb n="17" facs="tcp:197772:11"/> 3. The Monarchicall Fabricke of the said Government, with binding or co-active Authority, claimed and used therewith,</p>
+               <p>
+                  <hi>(viz.)</hi> By one Bishop single, over all Pastors and Churches in a Diocesse, one Metropolitane over all in a Province (and their Diocesans too) and one Primate or Patriarch above all.</p>
+               <p>These three Inconveniences joyntly, or severally, worke to<g ref="char:EOLhyphen"/>wards our said Grievances in generall, thus;</p>
+               <p n="1">1. They occasion that evill of Persons (in the <hi>Schedule</hi> declared) From which, immediately the said Grievances flow: And that</p>
+               <list>
+                  <item>1. By yeelding to men of such evill mindes
+<list>
+                        <item>1. most strong inducement to suie and strive for, and presse into the places of Church-government and Offices, and with-hold<g ref="char:EOLhyphen"/>ing men of better mindes.</item>
+                        <item>2. The most opportunitie and advantage to obtaine the same, and disadvantaging men of better consciences.</item>
+                     </list>
+                  </item>
+                  <item>2. By corrupting men of indifferent mindes, when they have obtained the same.</item>
+               </list>
+               <p n="2">2. They contribute also, with that evill of Persons, to the pro<g ref="char:EOLhyphen"/>duction of such our said Grievances;—And that</p>
+               <list>
+                  <item>By affording to men of such ill or indiffe<g ref="char:EOLhyphen"/>rent mindes
+<list>
+                        <item>1. For th'obtaining of those places of Church-government occasion and inducement to worke some of our said grievances;—And</item>
+                        <item>2. Having obtained the same, both inducement &amp; advantage to work all or any such Grievances by them, as in the <hi>Schedule</hi> are con<g ref="char:EOLhyphen"/>contained.</item>
+                     </list>
+                  </item>
+               </list>
+               <p n="2">2. <hi>More particularly,</hi> the said constitution of our Church-government workes to many of our said Grievances in parti<g ref="char:EOLhyphen"/>cular.</p>
+               <pb n="16" facs="tcp:197772:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:197772:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:197772:13"/>
+               <p> By the speciall or partiall Inconveniences, comprehended under, or consequent from the third grand Inconvenience aforesaid,</p>
+               <p>
+                  <hi>viz.</hi> From <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r under the said Monarchicall Fabricke, with bind<g ref="char:EOLhyphen"/>ing or coactive authority, <hi>&amp;c.</hi>
+               </p>
+               <p n="1">1. The leaving the power of Ordination and Institutions, and of examination (with admitting or refusing thereupon) to one man single, and confining the same to one onely for so large a circuit, as most Diocesses bee.</p>
+               <p n="2">2 The resting also of the power of Church-censures and Disci<g ref="char:EOLhyphen"/>pline, in the brest of one man single <hi>(viz.)</hi> Archbishop or Arch<g ref="char:EOLhyphen"/>deacon, or some other one, to whom they wil depute the same.</p>
+               <p n="3">3. The consining of all the power of Excōmunication, and other divine Ordinances in discipline, (for all Cases whatsoever) to onely one man or Court over many Churches,—And therein Th' Abridging of particular Churches of all ordinary Pa<g ref="char:EOLhyphen"/>rochiall, or Pastorall power, either to with-hold their owne offensive members from communion with themselves, till penitentiall satisfaction or publike tryall) or to receive penitentiall satisfaction from such amongst themselves, for private offences (though freely offered) or thereupon to ab<g ref="char:EOLhyphen"/>solve or restore such, without publike tryall in, or warrant from such Court, as aforesaid.</p>
+               <p n="4">4. The mixt holding and promiscuous using of both spirituall and civill Iurisdiction, by one and the same person (and that) in Right of the same place or office.</p>
+               <list>
+                  <item>1. In th'extent of their Ecclesiasticall Iurisdiction to civill censures, Impositions &amp; penalties, even in spirituall causes.</item>
+                  <item>2. In th'extent of the same Iurisdiction over temporall cau<g ref="char:EOLhyphen"/>ses, and their allowed Application of spirituall censures in the same Causes;—and thereupon</item>
+               </list>
+               <p n="5">5. The allowance and commitment of spirituall Censures, to a Civilian alone; and the admittance of an humane Law or Rule, for them to judge by, in temporall things, divers from our Nationall Law.</p>
+               <p>These five latter Inconveniences, joyntly or severally, worke towards many of our said Grievances, in particular,—Thus</p>
+               <list>
+                  <pb n="19" facs="tcp:197772:13"/>
+                  <item>1. They with-hold from that good (in want whereof some of the Grievances consist) by certaine and immediate hin<g ref="char:EOLhyphen"/>derance or disadvantage to the same.</item>
+                  <item>2. They afford towards the evill (in the sufferance whereof some others consist) necessary or immediate occasion and furtherance.</item>
+               </list>
+               <p>Whereas▪ if all the Inconveniences aforesaid were removed, the just contraries to the same, would worke (in each respect a<g ref="char:EOLhyphen"/>foregoing) contrarily towards the prevention of such evills, and the procuring of the contrary Good:</p>
+               <p>And all those Inconveniences consist in such Accidents or Conditions, in the Forme or Constitution of the Church Disci<g ref="char:EOLhyphen"/>pline; as are therein, not necessary, nor so conducible as destru<g ref="char:EOLhyphen"/>ctive to the peculiar ends thereof: Yet the same Accidents and Conditions are—</p>
+               <p>Either such as will not (by the same reason) prove to bee alike inconvenient, in the places of our Civil government (supreme or subordinate) especially, not in those places whose ends are, the keeping of men in externall present Peace and Order, or obedience to th'establisht Laws and Magistracie, (and that) by externall compulsive power against Resisters:</p>
+               <p>Or else such as are agreed to be Inconvenient (or for the most part avoyded, as being so) in such parts of civill govern<g ref="char:EOLhyphen"/>ment, whose peculiar ends (with their meanes and Rules proportionable) are of more affinitie to the proper ends and meanes and rule of church discipline; <hi>(viz.)</hi> In such places, whose proper ends are, The providing of fit Lawes, or the e<g ref="char:EOLhyphen"/>quall distribution of Iustice according thereunto, by deli<g ref="char:EOLhyphen"/>berate advising, and examination of things, and giving right Iudgement thereupon.</p>
+               <p>All which things, we are ready to declare more at large, or to Remonstrate further (in each particular above<g ref="char:EOLhyphen"/>mentioned,) by the reasons thereof (as wee con<g ref="char:EOLhyphen"/>ceive) when and how this Honourable house shall ap<g ref="char:EOLhyphen"/>point.</p>
+               <pb n="20" facs="tcp:197772:14"/>
+               <p> Wherefore we conceive such the said Accidents and condi<g ref="char:EOLhyphen"/>tions, in the Forme or Constitution of our Church-government, to be inconvenients, and the same inconveniences to be so farre causall to our said Grievances, as to deserve Removall, and the said Government to be altered into such different Forme (as in our Petition is desired, <hi>viz.)</hi> as shall bee found most free from such inconveniences, and (especially) as shall appeare to bee most consonant to Gods word, and the practise of the primitive Churches in the purest times:</p>
+               <p>For we beleeve, that our present Forme of Church-gouernment, hath had most full efficience to all our Evils and Grievances under it, from this,</p>
+               <p>That it is not agreeable to Gods word and ordinance; and that therefore God hath not blest it, but rather made it a curse unto us, hitherto, For our Idolizing or doting on the suppo<g ref="char:EOLhyphen"/>sed Antiquitie and glory of it (as th' onely best) though, in<g ref="char:EOLhyphen"/>deed, of humane and corrupt originall, especially, in the in<g ref="char:EOLhyphen"/>conveniences above mentioned;</p>
+               <p>Since, what ever th' exact Forme laid downe in Scripture be, or if none were positively and cleerely, and perfectly (for all parts and respects) set downe there, to bee necessarily the same in all Churches; yet (by what expressions thereof re<g ref="char:EOLhyphen"/>maine there) thus much generally may appeare,</p>
+               <p>That ours is not agreeable thereunto,</p>
+               <list>
+                  <item>1. Not in the Monarchicall Fabricke, with coactive Autho<g ref="char:EOLhyphen"/>rity aforesaid, and the particulars under it;</item>
+                  <item>2. Nor in the way of comming in, before mentioned;</item>
+                  <item>3. Nor in the ease and freedome of life without particular Cure;</item>
+               </list>
+               <p>And for the Greatnesse of temporall Revenue, Dignitie, <hi>&amp;c.</hi> (ascertain'd to the places of government) the stories make it cleere.</p>
+               <p n="1">1. That the want of such strong inviting objects, for men of worldly, or ambitious mindes in the primitive Churches, did (partly) preserve the Puritie and true Glory of them (as happily it might doe of ours.)</p>
+               <p n="2">2. And the accesse thereof, in the succeeding Churches, usher'd
+<pb n="21" facs="tcp:197772:14"/> and induced the corruption of them, from men of like mindes and by like degrees as (in the Schedule it may appeare) the retaining hath in ours, and that therein therefore, our consti<g ref="char:EOLhyphen"/>tution of Church-government, is by all experience (old and new) most dangerous to the Church;</p>
+               <p>And we therefore feare,</p>
+               <p>Least, if (after so loud and cleare warning against it, by the late extremitie of such evils and mischiefes wrought, and dangers of all sorts occasioned by it, and after so high proofe of Gods free mercy, in bringing us off them, and, even thereby, vin<g ref="char:EOLhyphen"/>dicating us to the more glorious hopes and opportunitie, especially of Reformation, (and that) by his meere All<g ref="char:EOLhyphen"/>ruling providence, without merit or counsell on our parts, contrary to all expectation, to the wonder and amazement of our selves, our Adversaries, and all that see or heare it, should be yet retained amongst us, and <hi>This Gods day</hi> neglected;</p>
+               <p>The Malignance thereof, which hitherto he hath made but Phy<g ref="char:EOLhyphen"/>sicke to us, henceforth become our Bane.</p>
+               <p>All which things we humbly submit to your pious and grave considerations, beseeching God, as (by his enforcing pro<g ref="char:EOLhyphen"/>vidence, and by inclining the peoples hearts) Hee hath given you power, to give you also wills and wisedome to ease us of these evills.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:197772:15"/>
+            <head>Faults escaped.</head>
+            <p>PAge 1 line 7. for <hi>[Atheisticall]</hi> reade <hi>[worldly.]</hi> Pag. 2. l. 5. &amp; 6. for <hi>[sa-steine]</hi> reade <hi>Systeme]</hi> pa. 7. l. 24. &amp; 25. these words [without o<g ref="char:EOLhyphen"/>ther fault then want of money] should be out. line 32. for <hi>[superstitious]</hi> reade <hi>[unfitting.]</hi> pag. 8. l 34. for <hi>[them]</hi> reade <hi>[that.]</hi> pag. 15. li. 2. these words <hi>[as that the Church of Rome.]</hi> and all the 3. and 4. lines should bee out Pa. 15. l. 23. <hi>[Atheisticall]</hi> should be out. pa. 18. l. 11. for <hi>[Arch<g ref="char:EOLhyphen"/>bishop]</hi> reade <hi>[A Bishop.]</hi> pa. 20. l. 14. for <hi>[A curse]</hi> reade <hi>[A Scourge.]</hi>
+            </p>
+            <p>In many of the Copies these faults also.</p>
+            <p>pa. 2. l. 6. for <hi>[severing]</hi> reade <hi>[securing.]</hi> pag. 2. after the 21. line. these words should bee added, [We humbly submit and referre to be judg'd by the kindes and consequences of the same our grievances, as they follow.]</p>
+         </div>
+         <div type="supplement">
+            <pb n="23" facs="tcp:197772:15"/>
+            <head>WHEREAS,</head>
+            <argument>
+               <p>
+                  <hi>In the precedent Remonstrance, after Recitall of the Inconve<g ref="char:EOLhyphen"/>niences in the said present Constitution of Church-govern<g ref="char:EOLhyphen"/>ment, and of the manner how the same doe worke towards the grievances complain'd of, it is in generall subjoyn'd, That the just contraries to those Inconveniences, would worke contrarily,</hi> &amp;c. <hi>but the Particular expression of those Contraries, in the Copie presented to the House, was for brevitie sake omitted;</hi>
+               </p>
+               <p>
+                  <hi>Here therefore, by way of supplement (set downe in In<g ref="char:EOLhyphen"/>verted order of th' Inconveniences) the Contraries to the same are expressed, Representing a Constitution of Church Discipline cleered from those Inconveniences.</hi>
+               </p>
+            </argument>
+            <p n="1">1. TO the Five particulars, or partiall Inconveniences, com<g ref="char:EOLhyphen"/>prehended under the third Grand Inconvenience, The just Contraries are, as follow:</p>
+            <p>No Humane Law or Authoritie, differs from our owne Natio<g ref="char:EOLhyphen"/>nall <note place="margin">
+                  <hi>To the 5.</hi>
+               </note> Lawes and Magistracie, to be admitted amongst us;</p>
+            <p>Or, to have but one humane Law and Iurisdiction of force, a<g ref="char:EOLhyphen"/>bout the same Civill or Temporall matters.</p>
+            <p>And no Civilian or other layman single, to have th' exercise of spirituall censures in any Causes.</p>
+            <p>No Application of spirituall Censures in Temporall causes, to <note place="margin">
+                  <hi>To the 4.</hi>
+               </note> be allowed; Nor any Spirituall Iurisdiction to extend, nei<g ref="char:EOLhyphen"/>ther over Civill Causes, nor unto any civill Censures, Impo<g ref="char:EOLhyphen"/>sitions or penalties in Spirituall causes.</p>
+            <p>Or (generally) no Spirituall or Church-governours (as such,
+<pb n="24" facs="tcp:197772:16"/> or in Right of their Spirituall places or offices) to hold or use promiscuously there with, any Civill Iurisdiction; And con<g ref="char:EOLhyphen"/>sequently</p>
+            <p>No externall Coaction in spirituall things further then exclusion from communion and societie to bee allowed them (as upon grou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of Divine right) but onely with immediate civill consent and concurrence of the Civill Magistrate.</p>
+            <p>Every particular Church to have its owne right of ordinary <note place="margin">
+                  <hi>To the 3.</hi>
+               </note> Discipline within it selfe, allowed <hi>(viz.)</hi> by the judgement of the Presbyters with concurrence of the Congregation (either at large, or contracted into some few chosen persons) to withhold its owne offending members from Communion with it selfe, untill either penitentiall satisfaction to it selfe bee made, or tryall had of th'offence in a more publike Court; And if th'offender (convinc'd in himselfe) will free<g ref="char:EOLhyphen"/>ly give such penitentiall satisfaction, to receive the same, and thereupon (if th'offence be not of publike extent to other Churches) to absolve and restore him, without further trou<g ref="char:EOLhyphen"/>bling any more publike Court, or th'offender, or themselves therewith; But, if th'offender (being not convinc'd) doe appeale to more publike judgement, or (communicating with some other Church) doe stand in contempt of his owne Churches censure, and thereupon his owne Church com<g ref="char:EOLhyphen"/>plaine; Then a more publike Court (such as contrary to the next Inconvenience is described, serving for some few neigh<g ref="char:EOLhyphen"/>bour Churches) to take the hearing of the cause; and either, to acquit the party in question from Excommunication (at least) in the Churches that Court serves for, and admonish his owne Church to receive him againe, or else to Excommu<g ref="char:EOLhyphen"/>nicate him out of those other Churches also, as cause shall appeare; And beyond that Court (in case of further appeale) another yet more publike to judge, for all the Churches in a Shire or convenient Diocesse (more narrowly to be bounded then some are) and so on, unto a Nationall Court for all the Churches in the Kingdome.</p>
+            <p>No such Court, having power of Church censures and Disci<g ref="char:EOLhyphen"/>pline <note place="margin">
+                  <hi>To the 2.</hi>
+               </note> for many Churches, to be in the hands of one man sin<g ref="char:EOLhyphen"/>gle,
+<pb n="25" facs="tcp:197772:16"/> (as a Bishop or Archdeacon, or any other by them de<g ref="char:EOLhyphen"/>puted) nor of any number of men, lesse then the numbers of the Churches it serves for, or not containing, by severall mem<g ref="char:EOLhyphen"/>bers of it respectively the distinct interest and power of eve<g ref="char:EOLhyphen"/>ry particular Church, through which the Iurisdiction extends.</p>
+            <p>But, of such Courts of Church discipline (as before in the pre<g ref="char:EOLhyphen"/>cedent Article are referr'd to) the first (for some convenient number of neighbour-Churches, as ten or thereabouts) to consist of the Presbyters (either alone, or with some other chosen members) from each of those Churches, to meet at convenient places and times set (as once in a fortnight, three weekes, or moneth) with a Moderator, for order sake, to be chosen amongst themselves at pleasure. The next (for all the Churches in a Shire or Diocesse conveniently di<g ref="char:EOLhyphen"/>vided) to consist of the like Assembly from each Church in that Circuit, to meet more seldome, then the former; (yet at some times set) all the Presbyters meeting to have equall Votes, with onely a Moderator of equall Order and Vote, and the same to hold during life (if he will) unlesse for just cause, excluded by the censure of th'assembly he presides in, or of another more publike, or deprived by civill Authoritie.</p>
+            <p>The power of Ordination, <hi>&amp;c.</hi> to bee allowed onely to such Courts as (contrary to the second Inconvenience) are before <note place="margin">
+                  <hi>To the 1.</hi>
+               </note> described and not to be left to one man single, or confined to one onely for a whole Diocesse.</p>
+            <p>These are the just contraries to the Five particulars or partiall</p>
+            <p>Inconveniences, comprehended under the third grand Inconve<g ref="char:EOLhyphen"/>nience, in the Remonstrance expressed.</p>
+            <p>To the three Grand Inconveniences, in the Remonstrance first set forth, The just Contraries are,</p>
+            <p>The summe of the five precedent Articles, contraries to the five partiall Inconveniences comprehended under it as before. <note place="margin">
+                  <hi>To the 3.</hi>
+               </note>
+            </p>
+            <p>No such Moderator as aforesaid, to come in by Absolute dona<g ref="char:EOLhyphen"/>tion from a Superiour, but with free Election and consent of <note place="margin">
+                  <hi>To the 2.</hi>
+               </note> either Inferiours, <hi>&amp;c.</hi>
+            </p>
+            <p>Or the Churches where he is to preside, to commend some num<g ref="char:EOLhyphen"/>ber
+<pb n="26" facs="tcp:197772:17"/> of men freely elected amongst them for the place, leaving the particular designation (of one out of that number) to the King.</p>
+            <p>No such Moderator, to have any temporall Dignity or Lordship <note place="margin">
+                  <hi>To the 1.</hi>
+               </note> nor temporall Iurisdiction or command annexed to his place, Nor such ease and freedome of life allowed, as heretofore;</p>
+            <p>But to be a plaine Pastor of some Church of good Revenue within the Shire or Diocesse, and tyed to the Cure, with one Assistant or more (as that particular Church requires and may beare.)</p>
+            <p>And for Revenue to have so much extraordinarie, above his pastorall benefice, as to countervaile his charges extraordina<g ref="char:EOLhyphen"/>ry in entertainments, meetings, journeyes, <hi>&amp;c.</hi> growing by reason of his super-intendencie (and that) either limitted to a certaine summe, or to be provided at large, as th'occasions doe arise (which may be raised, as the charges of other Pres<g ref="char:EOLhyphen"/>byters, in the manner of procurations and Synodalls of old, payed to the same purpose.)</p>
+            <p>And otherwise, to have no temporall Revenue, above his pa<g ref="char:EOLhyphen"/>storall Benefice ascertain'd to the place of super-intendencie, more then will countervaile the charge of it, save at the good will of the Churches, upon his merit extraordinarie.</p>
+            <p>So that the same places may not be of any certaine worldly ad<g ref="char:EOLhyphen"/>vantage, above an ordinary place of pastorall office, whereby a meere worldly mind, aiming onely at his owne advantage (without respect unto, or intention of, the honour of God in the service of his Churches) should be induced to strive for th'accesse of such a place, to his pastorall Benefice.</p>
+            <p>And so as the same places, or any other Ecclesiasticall offices may not (by greatnesse of temporall Revenue, Dignitie or power, <hi>&amp;c.</hi> annexed to them) afford greater Temporall preferment, or worldly aduantage, in th'Ecclesiasticall way to be obtained then other callings in Common-wealth doe yeeld, nor equall with the same; whereby as heretofore a man (without Di<g ref="char:EOLhyphen"/>vine respects, or any other end or intention swaying his choyce, then his owne advantage, ease and freedome in this world) should be inclined to chuse the Calling of the Mini<g ref="char:EOLhyphen"/>stry
+<pb n="27" facs="tcp:197772:17"/> to serve his appetite and ambition in.</p>
+            <p>These are th'intended just Contraries to all th'Inconvenien<g ref="char:EOLhyphen"/>ces in the Remonstrance expressed, whereof th'effects and cor<g ref="char:EOLhyphen"/>sequences (as might be easily shew'd, and will be, if required) would be alike contrary to the ill effects of th'Inconveniences, as in the Remonstrance they are set downe.</p>
+            <p>The end of such a Moderators office (as here before is descri<g ref="char:EOLhyphen"/>bed) and of his continuance in it; (if any enquire) and what his charge should be? It may be answered;</p>
+            <p>Such a one is very fit and requisite; In the Interims of Provin<g ref="char:EOLhyphen"/>ciall Assemblies, to receive Complaints, and take Cognizance (upon notice any way given) of all Church affaires and occasi<g ref="char:EOLhyphen"/>ons within the Shire or Di<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cesse, requiring the considerations of the Church Assemblies, to see they be not neglected (in case some Pastors or smaller Presbyteries, should be corrupt or care<g ref="char:EOLhyphen"/>lesse) but to provide that they be taken into consideration and dispatcht; and (for that purpose) to digest and prepare busines<g ref="char:EOLhyphen"/>ses for th'assembly, that it may more orderly and briefly heare and judge (lest Pastors should be detain'd too long from their particular cures) to call th'Assembly upon occasions extraordi<g ref="char:EOLhyphen"/>narie, and both therein, and in the ordinary, to propound busi<g ref="char:EOLhyphen"/>nesses in order, to regulate the manner of proceedings, to col<g ref="char:EOLhyphen"/>lect the Votes, and pronounce or publish the judgement of the Churches, <hi>&amp;c.</hi>
+            </p>
+            <p>And such a Moderator, superintendent Overseer, or (if any doe fansie the name, though Names of things so much deprav'd are fit, upon reformation of the things to be changed with them) such a Bishop [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] may consist with primitive exam<g ref="char:EOLhyphen"/>ple; being thus now (as then) an office onely of speciall trust, and charge and care, and ministration for many Churches, not of sole Rule and command over any;</p>
+            <p>And yet an Office of speciall honour too; not honour, consisting in worldly state, or title or power affixed to the place (to invite or serve a worldly minde, seeking the place, and not the end of the place) but in true esteeme and Reverence, with all reall ex<g ref="char:EOLhyphen"/>pressions
+<pb n="28" facs="tcp:197772:18"/> thereof, indubitably consequent to the person, upon the faithfull manage of it.</p>
+            <p>But, if the Continuance of such a Moderator during life <hi>(si bene se gesserit)</hi> be thought prejudiciall or dangerous, and the' E<g ref="char:EOLhyphen"/>lection of new ones at pleasure more fit and safe, the difference is small; Let humane <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onvenience, and Christian edification (the grounds of the office) be the rules to judge by; and there<g ref="char:EOLhyphen"/>upon, let humane consent determine whether, since there's no Divine necessitie for either.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
